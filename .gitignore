@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.ipynb_save/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab / Google Drive temp files
+*.swp
+*.swo
+*.tmp
+
+# Data files (large or sensitive)
+data/
+*.csv
+*.xlsx
+*.zip
+*.parquet
+
+# Logs
+*.log
+
+# Cache
+.cache/
